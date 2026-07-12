@@ -43,7 +43,7 @@ jobs:
         run: npm install
 
       - name: Build
-        run: npm run build
+        run: npm run build -- --base=/docker-masterclass/
         env:
           # Ensure assets are resolved correctly under repository subpaths if hosted on github.io
           VITE_BASE_URL: "/docker-masterclass/"

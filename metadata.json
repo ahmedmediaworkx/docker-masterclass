@@ -1,0 +1,6 @@
+{
+  "name": "Container & Docker Masterclass",
+  "description": "An interactive 31-slide presentation on container terminology, Docker vs VMs, jargon-free analogies, simulated hands-on labs, a command cheat sheet, and production templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
